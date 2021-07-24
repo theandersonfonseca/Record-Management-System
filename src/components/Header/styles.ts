@@ -43,7 +43,7 @@ export const MenuItem = styled.a`
     }
 
     &:hover {
-      border-bottom: solid 0.3rem ${theme.colors.white};
+      border-bottom: solid 0.3rem ${theme.colors.blue};
     }
   `}
 `;
