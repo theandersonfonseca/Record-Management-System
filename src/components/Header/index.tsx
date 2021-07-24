@@ -9,6 +9,7 @@ export default function Header() {
           <S.Logo>Loja Tudo Barato - Gestão</S.Logo>
 
           <S.Menu>
+            <S.MenuItem>Cadastro</S.MenuItem>
             <S.MenuItem>Clientes</S.MenuItem>
             <S.MenuItem>Produtos</S.MenuItem>
           </S.Menu>
